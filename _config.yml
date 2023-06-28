@@ -3,6 +3,6 @@ markdown: kramdown
 
 defaults:
   - scope:
-      path: "assets/img"
+      path: "assets/img;assets/icon"
     values:
       image: true
