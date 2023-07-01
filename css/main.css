@@ -30,16 +30,22 @@ h1 {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 150px;
 }
+h2 {
+    border-top: 1px solid #d5d5d5;
+    font-size: 2em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    line-height: 50px;
+}
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
+    justify-content: auto;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
